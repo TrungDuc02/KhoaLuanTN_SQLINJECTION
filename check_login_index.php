@@ -79,6 +79,7 @@
 //     $result = mysqli_stmt_get_result($stmt);
 
 
+
 //     $sql = "SELECT * FROM users WHERE user = ? AND pwd = ?";
 //     $stmt = $conn->prepare($sql);
 //     $stmt->bind_param("ss", $uname, $pass);
