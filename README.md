@@ -16,6 +16,8 @@ Hình 3.19 Giao diện khi đăng nhập thành công với câu lệnh  ' or 1=
 + Sử dụng hàm mysqli_real_escape_string để lọc các ký tự đb
 + Sử dụng các câu truy vấn tham số hóa như : Prepared Statements và Parameterized Queries
 + Mã hóa dữ liệu : mã hóa mật khẩu
+
+
 -------UPDATE--------
 Sửa lại giao diện
 ![image](https://github.com/TrungDuc02/KhoaLuanTN_SQLINJECTION/assets/96367070/9ceea7a2-d327-452b-b0ec-d906a08f949d)
